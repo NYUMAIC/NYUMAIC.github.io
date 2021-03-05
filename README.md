@@ -28,7 +28,7 @@ We strongly encourage departments to each take over the sessions, champion talks
 | Date | Theme  | List of Papers  |
 :- | :- | :-----------| 
 Feb 19th 2021  <br><br> 11am - noon Eastern | Introduction & AI dos and donts  <br><br> |  Introduction to the meeting series <br> **[Slides](https://docs.google.com/presentation/d/1dAPPWUTezQvWjKsrYPFBd2zqkhNK7sjtiwjV17v06ik/edit?usp=sharing)** <br> **[Recorded Zoom Session](https://nyulangone.zoom.us/rec/share/4vpfqF7zhUT6QzlAl0jZTeO8a6-2FY1MfOodK4MUleKojSrw82G9_RcHIcEshVu6.Br7KLVLUKiJJcXhz)** |
-| March 5th 2021 |  Member Spotlights  |  Ye Yuan, MD PhD <br> NYU Langone Department of Radiation Oncology<br> **[slides]()** <br><br>  Nicolas Coudray, PhD <br> Coudray, N., Ocampo, P.S., Sakellaropoulos, T. et al. Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning. Nat Med 24, 1559–1567 (2018).<br> https://doi.org/10.1038/s41591-018-0177-5 <br>**[slides]()**|
+| March 5th 2021 |  Member Spotlights  |  Ye Yuan, MD PhD <br> NYU Langone Department of Radiation Oncology<br> **[slides](https://github.com/NYUMAIC/NYUMAIC.github.io/blob/main/slides/ClubMEDAI_spotlight030521.pdf)** <br><br>  Nicolas Coudray, PhD <br> Coudray, N., Ocampo, P.S., Sakellaropoulos, T. et al. Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning. Nat Med 24, 1559–1567 (2018).<br> https://doi.org/10.1038/s41591-018-0177-5 <br>**[slides](https://github.com/NYUMAIC/NYUMAIC.github.io/blob/main/slides/20210305_JClub.pdf)**|
 | March 19th 2021 |  TBD   |  TBD   |
 | April 2nd 2021 |  TBD   |  TBD   |
 | April 16nd 2021 |  TBD   |  TBD   |
