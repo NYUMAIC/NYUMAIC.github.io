@@ -1,6 +1,5 @@
 # Welcome to ClubMedAI: NYU Langone Club for Medical AI 
 
-
 Our goal is to create a virtual club to discuss the latest developments in the field of AI in medicine.
 This will be a participant-driven journal club and we will cover papers in form of lightning talks and deep dive and discussion. 
 All NYU affiliates are welcome. It will be fun!
@@ -8,26 +7,12 @@ All NYU affiliates are welcome. It will be fun!
 We meet every other Friday 11am-noon. 
 For calendar invite reach out to narges.razavian@nyulangone.org
 
-### Tentative meeting format (Open to feedback)
-1. Multiple (6) lightining talks, each for about 5 minutes, covering diverse and relevant papers.
-2. Remaining half of the session allocated to a deep dive and discussion period.
-3. We will also add a short segment on cool grants (if any) within the related area.
-
-We strongly encourage departments to each take over the sessions, champion talks from researchers within their groups, and be part of the leadership of this club. 
-
-#### For any questions/comments/feedback please reach out to:
-* Narges Razavian Narges.Razavian@nyulangone.org
-* Eric Oermann Eric.Oermann@nyulangone.org
-* Yindalon Aphinyanaphongs Yin.A@nyulangone.org
-* Leora Horwitz Leora.Horwitz@nyulangone.org
-* Yvonne Lui Yvonne.Lui@nyulangone.org
-
-### Schedule (will be updated regularly):
+### Agenda:
 | Date | Theme  | List of Papers  |
 :- | :- | :-----------| 
-| Oct 1st 2021 | AI Moonshots and Federated Learning for Healthcare | [**AI Moonshots (Part 2) Self Supervised Learning and Foundation Models**](https://docs.google.com/presentation/d/1co3p70ar--JlbHMJEojX88W9QcCmlgLGvYhiMHCZ8G8/edit?usp=sharing)<br> By: [Narges Razavian](http://razavian.net/)<br><br>[**Primer on Federated Learning for Healthcare**](https://docs.google.com/presentation/d/1aByla-qMYeZMSXylr7m73BcXRJFjVgvdHqbssXgVruk/edit?usp=sharing)<br> By: [Vincent Major](https://vincentmajor.com/)<br><br> <br>Readings: <br>Self Supervised Learning and Foundation Models<br>[1] Bommasani R, et.al. On the Opportunities and Risks of Foundation Models. arXiv preprint [arXiv:2108.07258](https://arxiv.org/abs/2108.07258). 2021 Aug 16.<br>[2] Yann LeCun and Ishan Misra [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021 Mar 4 <br><br> Federated Learning for Healthcare:<br>[1] McMahan B. et.al. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) Google AI Blog 2017<br> [2] Rieke N. et.a. [The future of digital health with federated learning](https://www.nature.com/articles/s41746-020-00323-1) npj Digital Medicine 2020<br>[3] Dayan I. et.al. [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3) Nature Medicine 2021<br><br><br> **[Zoom recordings](https://nyulangone-my.sharepoint.com/:f:/g/personal/sophia_giardina_nyulangone_org/EhWbRgxYPcNNlr_kO0xJT3MB7o21f6rSWUpE_ctihdNQ5Q)** <br> This session also viewable at:<br>[https://nyulangone.zoom.us/rec/share/EBkemJ8Sg...](https://nyulangone.zoom.us/rec/share/EBkemJ8SgIkRZbJszwMgwvn95BU8DI9fiytSi_QkZqv8gK2zBiXdx36EQNqHskkj.mLYPS0UDgwliQN29)<br>Passcode: XE5@0yh=|
-| Sept 17th 2021 | Intro to the new season and AI moonshots | [**Introduction to new Season**](https://docs.google.com/presentation/d/16mTeziWbTejSY9lWgAIIdYAoezxPFU6z3u0zAF_mfq4/edit?usp=sharing)<br>By: [Yin Aphinyanaphongs](https://med.nyu.edu/faculty/yindalon-aphinyanaphongs)<br><br> _Notes from discussions:_<br>(1) Population Health Data Hub:[link](https://insidehealth.nyumc.org/sites/PopHealthHub/SitePages/Home.aspx) <br>For more information reach out to Andrew Fair. <br>(2) NYULH Perlmutter Cancer Center Data Hub: [link](https://collibraprod.nyumc.org/dashboard?d=3d824f33-dc65-450d-964f-d1078fe204e6) For more information reach out to Megan Winner and Ye Yuan. <br><br><br> [**AI Moonshots or What Keeps AI Community Awake at Night<br>(Part 1: Self Supervised Learning and Foundation Models)**](https://docs.google.com/presentation/d/1co3p70ar--JlbHMJEojX88W9QcCmlgLGvYhiMHCZ8G8/edit?usp=sharing)<br> By: [Narges Razavian](http://razavian.net/)<br><br><br>Readings: <br>[1] Bommasani R, et.al. On the Opportunities and Risks of Foundation Models. arXiv preprint [arXiv:2108.07258](https://arxiv.org/abs/2108.07258). 2021 Aug 16.<br>[2] Yann LeCun and Ishan Misra [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021 Mar 4 <br><br><br> **[Zoom recordings](https://nyulangone-my.sharepoint.com/:f:/g/personal/sophia_giardina_nyulangone_org/EhWbRgxYPcNNlr_kO0xJT3MB7o21f6rSWUpE_ctihdNQ5Q)** <br> This session also viewable at:<br>[https://nyulangone.zoom.us/rec/share/](https://nyulangone.zoom.us/rec/share/H2bmWv8wetQuI9X_Gfkl3xR6jGd1Yqq_1rlrHRyqGylU34C-M_UQHe0iR5lY485G.Vu5D8T8Lp452Vvzf)<br>Passcode: $9nYX2gm |
-
+| Oct 15th 2021 | NYU Langone Population Health Data Hub & DataCore | [**Overview of Population Health Data Hub (PHDH): Vision and Current State**](https://insidehealth.nyumc.org/sites/PopHealthHub/SitePages/Home.aspx) <br> By: Andrew Fair - Population Health Data Hub / Thorpe Epi Lab <br><br> Chuan Hong – Population Health Data Hub <br><br> Nikolai Bourdain – Research Digital Experience / Pop Health Data Hub <br><br> Hamzad Persaud – DataCore / Pop Health Data Hub <br><br> **[Zoom recordings](https://nyulangone-my.sharepoint.com/:f:/g/personal/sophia_giardina_nyulangone_org/EhWbRgxYPcNNlr_kO0xJT3MB7o21f6rSWUpE_ctihdNQ5Q)** <br>|
+| Oct 1st 2021 | AI Moonshots and Federated Learning for Healthcare | [**AI Moonshots (Part 2) Self Supervised Learning and Foundation Models**](https://docs.google.com/presentation/d/1co3p70ar--JlbHMJEojX88W9QcCmlgLGvYhiMHCZ8G8/edit?usp=sharing)<br> By: [Narges Razavian](http://razavian.net/)<br><br>[**Primer on Federated Learning for Healthcare**](https://docs.google.com/presentation/d/1aByla-qMYeZMSXylr7m73BcXRJFjVgvdHqbssXgVruk/edit?usp=sharing)<br> By: [Vincent Major](https://vincentmajor.com/)<br><br> <br>Readings: <br>Self Supervised Learning and Foundation Models<br>[1] Bommasani R, et.al. On the Opportunities and Risks of Foundation Models. arXiv preprint [arXiv:2108.07258](https://arxiv.org/abs/2108.07258). 2021 Aug 16.<br>[2] Yann LeCun and Ishan Misra [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021 Mar 4 <br><br> Federated Learning for Healthcare:<br>[1] McMahan B. et.al. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) Google AI Blog 2017<br> [2] Rieke N. et.a. [The future of digital health with federated learning](https://www.nature.com/articles/s41746-020-00323-1) npj Digital Medicine 2020<br>[3] Dayan I. et.al. [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3) Nature Medicine 2021<br><br><br> **[Zoom recordings](https://nyulangone-my.sharepoint.com/:f:/g/personal/sophia_giardina_nyulangone_org/EhWbRgxYPcNNlr_kO0xJT3MB7o21f6rSWUpE_ctihdNQ5Q)** <br>|
+| Sept 17th 2021 | Intro to the new season and AI moonshots | [**Introduction to new Season**](https://docs.google.com/presentation/d/16mTeziWbTejSY9lWgAIIdYAoezxPFU6z3u0zAF_mfq4/edit?usp=sharing)<br>By: [Yin Aphinyanaphongs](https://med.nyu.edu/faculty/yindalon-aphinyanaphongs)<br><br> _Notes from discussions:_<br>(1) Population Health Data Hub:[link](https://insidehealth.nyumc.org/sites/PopHealthHub/SitePages/Home.aspx) <br>For more information reach out to Andrew Fair. <br>(2) NYULH Perlmutter Cancer Center Data Hub: [link](https://collibraprod.nyumc.org/dashboard?d=3d824f33-dc65-450d-964f-d1078fe204e6) For more information reach out to Megan Winner and Ye Yuan. <br><br><br> [**AI Moonshots or What Keeps AI Community Awake at Night<br>(Part 1: Self Supervised Learning and Foundation Models)**](https://docs.google.com/presentation/d/1co3p70ar--JlbHMJEojX88W9QcCmlgLGvYhiMHCZ8G8/edit?usp=sharing)<br> By: [Narges Razavian](http://razavian.net/)<br><br><br>Readings: <br>[1] Bommasani R, et.al. On the Opportunities and Risks of Foundation Models. arXiv preprint [arXiv:2108.07258](https://arxiv.org/abs/2108.07258). 2021 Aug 16.<br>[2] Yann LeCun and Ishan Misra [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) 2021 Mar 4 <br><br><br> **[Zoom recordings](https://nyulangone-my.sharepoint.com/:f:/g/personal/sophia_giardina_nyulangone_org/EhWbRgxYPcNNlr_kO0xJT3MB7o21f6rSWUpE_ctihdNQ5Q)** <br>|
 
 ### Previous Seasons:
 | Date | Theme  | List of Papers  |
@@ -42,3 +27,11 @@ Feb 19th 2021  <br><br> 11am - noon Eastern | Introduction & AI dos and donts  <
  
  
  
+We strongly encourage departments to each take over the sessions, champion talks from researchers within their groups, and be part of the leadership of this club. 
+
+#### Organizers:
+* Narges Razavian Narges.Razavian@nyulangone.org
+* Eric Oermann Eric.Oermann@nyulangone.org
+* Yindalon Aphinyanaphongs Yin.A@nyulangone.org
+* Leora Horwitz Leora.Horwitz@nyulangone.org
+* Yvonne Lui Yvonne.Lui@nyulangone.org
